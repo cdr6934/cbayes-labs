@@ -2,31 +2,22 @@
 # Banner
 banner:
   title: "CBayes Media Labs"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  content: "Sustainable Biomimicry"
   image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Creative Coding Newsletter"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "A curated newsletter passionately crafted to explore and celebrate the diverse realms of creative coding, generative art, and traditional artistic practices, offering insights, inspirations, and innovations at the intersection of technology and creativity."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Technologies**: [Blender](https://www.blender.org/), [p5.js](https://p5js.org/), [Processing](https://processing.org/), [openFrameworks](https://openframeworks.cc/)"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Newsletter"
+      link: "https://generativecollective.com"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Sustainable Consumer Products"
     image: "/images/service-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:

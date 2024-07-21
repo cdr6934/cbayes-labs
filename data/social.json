@@ -1,13 +1,8 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
       "name": "twitter",
-      "icon": "fab fa-twitter",
+      "icon": "fab fa-x-twitter",
       "link": "https://twitter.com/generatecoll"
     },
     {
