@@ -6,11 +6,11 @@ GO_VERSION='1.22.2';
 HUGO_VERSION='0.124.1';
 
 # install Node.js
-# echo "Installing Node.js $NODE_VERSION..."
-# curl -sSOL https://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}.tar.gz
-# tar -xzf node-v${NODE_VERSION}.tar.gz
-# export PATH=$PATH:/usr/local/bin
-# rm -rf node-v${NODE_VERSION}.tar.gz
+ echo "Installing Node.js $NODE_VERSION..."
+ curl -sSOL https://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}.tar.gz
+ tar -xzf node-v${NODE_VERSION}.tar.gz
+ export PATH=$PATH:/usr/local/bin
+ rm -rf node-v${NODE_VERSION}.tar.gz
 
 echo "USING NODE VERSION: $(node -v)"
 
